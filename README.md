@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hugo-dorlac-88b991207/">
+  <a target="_blank" href="https://www.linkedin.com/in/hugo-dorlac-88b991207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -14,7 +14,7 @@
 <hr>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Hugo.;I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Hugo.;I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)]
 
 
 My name is Hugo and I am a fullstack developer. I come from France and live in Melun. 🏙️
