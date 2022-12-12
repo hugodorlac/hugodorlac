@@ -7,7 +7,7 @@
 </div>
 
 <div  align="center">
-  <img style="width: 100%;" align="center" src="gif_git.gif"/>
+  <img style="width: 100%;" align="center" src="banner_gif.gif"/>
 </div>
 
 
