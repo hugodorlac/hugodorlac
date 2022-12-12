@@ -1,11 +1,9 @@
-<div align="center"><img src='./yumicode.gif'></div>
-<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helene-nguyen-yumicode/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<br>
 <div  align="center">
   <img style="width: 100%;" align="center" src="banner_gif.gif"/>
 </div>
@@ -69,10 +67,6 @@ ___
 
 <hr>
 
-Sources :
-
-* [Badges](https://shields.io/category/build)
-* [Contributions](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 
