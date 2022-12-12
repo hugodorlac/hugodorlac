@@ -6,11 +6,10 @@
   </a>
 </div>
 
-<img style="width: 50%;" align="right" src="gif.gif"/>
+<img style="width: 50%;" align="center" src="gif_git.gif"/>
 
-
-___
-
+<br>
+<hr>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone+!;I'm+Hugo.;I'm+a+fullstack+developper;Let's+work+together+!&color=fff&size=35&width=555&font=source+code+pro)](https://git.io/typing-svg)
