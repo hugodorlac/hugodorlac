@@ -1,12 +1,16 @@
 <div align="center"><img src='./yumicode.gif'></div>
-
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/helene-nguyen-yumicode/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<img style="width: 50%;" align="center" src="gif_git.gif"/>
+<div  align="center">
+  <img style="width: 100%;" align="center" src="gif_git.gif"/>
+</div>
+
+
 
 <br>
 <hr>
