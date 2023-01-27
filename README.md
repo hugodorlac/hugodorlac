@@ -42,14 +42,16 @@ ___
 ||✉️ SMTP 
 ||🎢 FTP server - Filezilla
 |**FRONT END**|---|
-||🎨 HTML/CSS
+||🦴 HTML
+||🎨 CSS
 ||🎇 JAVASCRIPT
-||🎀 CSS Bootstrap 
+||🎀 Bootstrap 
 ||🎏 ReactJS (beginner)
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub 
 |**DATABASE**|---|
 ||💼 SQL
+||📦 SQL Server Management Studio 
 ||🗝 Ensure data security // Domains check value
 |**ARCHITECTURE**|---|
 ||🎞 Models Views Controllers (MVC)
