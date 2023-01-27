@@ -49,6 +49,7 @@ ___
 ||🎏 ReactJS (beginner)
 |**VERSIONING**|---|
 ||🐱‍👤 Git / GitHub 
+||🌀 TFS 
 |**DATABASE**|---|
 ||💼 SQL
 ||📦 SQL Server Management Studio 
