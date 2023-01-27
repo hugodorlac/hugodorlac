@@ -48,7 +48,7 @@ ___
 ||🎀 Bootstrap 
 ||🎏 ReactJS (beginner)
 |**VERSIONING**|---|
-||🐱‍👤 Git / GitHub 
+||🐱‍👤 Git / GitHub / GitLab
 ||🌀 TFS 
 |**DATABASE**|---|
 ||💼 SQL
